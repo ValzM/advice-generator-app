@@ -29,4 +29,4 @@ Your users should be able to:
     
 # Preview
 
-(images/preview-image.png)
+![](images/preview-image.png)
